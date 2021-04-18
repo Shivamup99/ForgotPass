@@ -18,3 +18,5 @@ exports.nodemailer = data=>{
           ).catch((err)=>{`send ${err}`})
       )
 }
+
+//https://www.youtube.com/watch?v=YqYrie7NjAs&list=PL_mAvlfqBUVKEfjKp5GjNIg0q-bkXNkgs&index=16
